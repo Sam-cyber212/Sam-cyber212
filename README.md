@@ -9,7 +9,7 @@ Sam-cyber212/Sam-cyber212 is a ✨ special ✨ repository because its `README.md
 You can click the Preview link to take a look at your changes.
 --->
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Exo+2&size=24&duration=4000&pause=1000&color=4E22F7&center=true&width=435&lines=Full+Stack+Web+Developer)](https://git.io/typing-svg)
+
 
 
 Experienced and dedicated Software Engineer with a strong passion for delivering exceptional business value through the utilisation of JavaScript, TypeScript, React, Next, and associathnologies. Demonstrated expertise in employing professional software engineering best practices within multifunctional teams, including adherence to coding standards and conducting comprehensive design reviews. Possesses a versatile, cross-technology mindset that enables the adoption of productive approaches to tackle complex technical challenges, unbounded by the limitations of a single technology.
