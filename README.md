@@ -9,5 +9,4 @@ Contact me
 
 Email: segbayelo@yahoo.co.uk
 
-
-![image](https://github.com/Sam-cyber212/Sam-cyber212/assets/145180354/c5c90916-9d8b-4d67-ac95-c6e6e69d5c93)
+Technical Stack
