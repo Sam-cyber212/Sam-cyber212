@@ -10,3 +10,4 @@ Contact me
 Email: segbayelo@yahoo.co.uk
 
 Technical Stack
+Gimp
